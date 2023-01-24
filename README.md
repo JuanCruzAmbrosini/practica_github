@@ -1,2 +1,2 @@
 # practica_github
-Juan Cruz Ambrosini
+J C Ambrosini
